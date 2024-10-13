@@ -48,3 +48,22 @@ pip install -r requirements.txt
 
 # 6. Run the project
 python main.py
+
+## Usage
+
+1. Run the project:
+   ```bash
+   python main.py
+The program will prompt you to:
+Enter the stock symbol (e.g., AAPL for Apple).
+Enter a volume (e.g., 10000000 for 10 million shares).
+The model will then predict the closing price based on the input volume and display the result.
+shell
+Copy code
+
+### **License Section:**
+
+```md
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
